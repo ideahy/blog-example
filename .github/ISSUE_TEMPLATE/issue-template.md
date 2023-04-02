@@ -1,18 +1,22 @@
 ---
 name: Issue template
-about: Describe this issue template's purpose here.
+about: Here is a template for creating an issue
 title: ''
 labels: enhancement
 assignees: ideahy
 
 ---
 
+## Overview
+Please provide an overview of the issue you are creating.
+ex) I want to adapt the style of the header.
+
 ## Purpose
 Describe the purpose of this issue
 ex) To style it.
 
 ## Task
-Break down and manage your task
+Break down and manage your tasks.
 - [ ] XXXX
 - [ ] XXXX
 - [ ] XXXX
